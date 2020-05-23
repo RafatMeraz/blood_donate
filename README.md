@@ -18,3 +18,7 @@ This project contains the features which are -
 ## Framework & Tools
   - Flutter
   - Firebase
+
+
+#Important note
+If you want use this project, please use your own firebase & map api key.
