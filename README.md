@@ -20,5 +20,6 @@ This project contains the features which are -
   - Firebase
 
 
-#Important note
+##Important note
+
 If you want use this project, please use your own firebase & map api key.
