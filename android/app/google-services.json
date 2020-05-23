@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "122850033676",
+    "firebase_url": "https://blood-7bda5.firebaseio.com",
+    "project_id": "blood-7bda5",
+    "storage_bucket": "blood-7bda5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122850033676:android:08e6c032d3761722e96e29",
+        "android_client_info": {
+          "package_name": "com.pirox.blooddonate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122850033676-8v1pt2e2iq4g6n3sluit6mbi2urkro78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8_DWl8hWKUSGH3bUpDUb8gQre9NyiSCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122850033676-8v1pt2e2iq4g6n3sluit6mbi2urkro78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
